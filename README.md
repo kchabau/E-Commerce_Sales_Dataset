@@ -1,5 +1,7 @@
 ## Background
 
+![main](/Picture/code.png)
+
 Python script to download file using Kaggle API, [link](/python_and_junyper/kaggle_download.py)
 To access the original file, please refer to this [link](/thedevastator/unlock-profits-with-e-commerce-sales-data/versions/2/Amazon%20Sale%20Report.csv)
 
